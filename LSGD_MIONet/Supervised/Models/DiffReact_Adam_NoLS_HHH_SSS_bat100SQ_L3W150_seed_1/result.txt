@@ -1,0 +1,301 @@
+Work Unit 200 :	 Train total loss :		2.749786e-05	L2 loss :	2.749786e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	1.222406e-02
+Work Unit 200 :	 Validation total loss :	2.985159e-05	L2 loss :	2.985159e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	1.267127e-02
+Work Unit 200 :	 Training time: 	391.75 seconds
+Work Unit 400 :	 Train total loss :		1.696580e-05	L2 loss :	1.696580e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	9.584686e-03
+Work Unit 400 :	 Validation total loss :	1.818627e-05	L2 loss :	1.818627e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	9.867487e-03
+Work Unit 400 :	 Training time: 	788.49 seconds
+Work Unit 600 :	 Train total loss :		1.601422e-05	L2 loss :	1.601422e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	8.811182e-03
+Work Unit 600 :	 Validation total loss :	1.746864e-05	L2 loss :	1.746864e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	9.111122e-03
+Work Unit 600 :	 Training time: 	1181.72 seconds
+Work Unit 800 :	 Train total loss :		9.511588e-06	L2 loss :	9.511588e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	7.210587e-03
+Work Unit 800 :	 Validation total loss :	1.055314e-05	L2 loss :	1.055314e-05	Regularization loss :	0.000000e+00	Relative L2 Error :	7.445347e-03
+Work Unit 800 :	 Training time: 	1571.37 seconds
+Work Unit 1000 :	 Train total loss :		4.931061e-06	L2 loss :	4.931061e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.131577e-03
+Work Unit 1000 :	 Validation total loss :	5.549750e-06	L2 loss :	5.549750e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.287398e-03
+Work Unit 1000 :	 Training time: 	1960.04 seconds
+Work Unit 1200 :	 Train total loss :		6.807550e-06	L2 loss :	6.807550e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.308419e-03
+Work Unit 1200 :	 Validation total loss :	7.567441e-06	L2 loss :	7.567441e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.530719e-03
+Work Unit 1200 :	 Training time: 	2353.58 seconds
+Work Unit 1400 :	 Train total loss :		3.168197e-06	L2 loss :	3.168197e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.111899e-03
+Work Unit 1400 :	 Validation total loss :	3.935410e-06	L2 loss :	3.935410e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.347923e-03
+Work Unit 1400 :	 Training time: 	2745.99 seconds
+Work Unit 1600 :	 Train total loss :		4.115280e-06	L2 loss :	4.115280e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.626024e-03
+Work Unit 1600 :	 Validation total loss :	4.554811e-06	L2 loss :	4.554811e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.725469e-03
+Work Unit 1600 :	 Training time: 	3132.48 seconds
+Work Unit 1800 :	 Train total loss :		2.184170e-06	L2 loss :	2.184170e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.343563e-03
+Work Unit 1800 :	 Validation total loss :	2.698993e-06	L2 loss :	2.698993e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.487746e-03
+Work Unit 1800 :	 Training time: 	3485.07 seconds
+Work Unit 2000 :	 Train total loss :		5.398491e-06	L2 loss :	5.398491e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.286921e-03
+Work Unit 2000 :	 Validation total loss :	5.738096e-06	L2 loss :	5.738096e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.427416e-03
+Work Unit 2000 :	 Training time: 	3836.60 seconds
+Work Unit 2200 :	 Train total loss :		3.359167e-06	L2 loss :	3.359167e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.144236e-03
+Work Unit 2200 :	 Validation total loss :	3.806925e-06	L2 loss :	3.806925e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.323717e-03
+Work Unit 2200 :	 Training time: 	4187.79 seconds
+Work Unit 2400 :	 Train total loss :		1.976171e-06	L2 loss :	1.976171e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.219884e-03
+Work Unit 2400 :	 Validation total loss :	2.362619e-06	L2 loss :	2.362619e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.399613e-03
+Work Unit 2400 :	 Training time: 	4540.09 seconds
+Work Unit 2600 :	 Train total loss :		2.932305e-06	L2 loss :	2.932305e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.910535e-03
+Work Unit 2600 :	 Validation total loss :	3.459083e-06	L2 loss :	3.459083e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.154409e-03
+Work Unit 2600 :	 Training time: 	4891.62 seconds
+Work Unit 2800 :	 Train total loss :		2.629103e-06	L2 loss :	2.629103e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.668710e-03
+Work Unit 2800 :	 Validation total loss :	2.897346e-06	L2 loss :	2.897346e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.784415e-03
+Work Unit 2800 :	 Training time: 	5242.99 seconds
+Work Unit 3000 :	 Train total loss :		6.123655e-06	L2 loss :	6.123655e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.371860e-03
+Work Unit 3000 :	 Validation total loss :	6.363589e-06	L2 loss :	6.363589e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	5.489316e-03
+Work Unit 3000 :	 Training time: 	5594.82 seconds
+Work Unit 3200 :	 Train total loss :		7.750441e-06	L2 loss :	7.750441e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	6.014187e-03
+Work Unit 3200 :	 Validation total loss :	8.054761e-06	L2 loss :	8.054761e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	6.068009e-03
+Work Unit 3200 :	 Training time: 	5947.38 seconds
+Work Unit 3400 :	 Train total loss :		2.106515e-06	L2 loss :	2.106515e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.149532e-03
+Work Unit 3400 :	 Validation total loss :	2.471361e-06	L2 loss :	2.471361e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.317747e-03
+Work Unit 3400 :	 Training time: 	6298.69 seconds
+Work Unit 3600 :	 Train total loss :		2.021936e-06	L2 loss :	2.021936e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.240074e-03
+Work Unit 3600 :	 Validation total loss :	2.298719e-06	L2 loss :	2.298719e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.377870e-03
+Work Unit 3600 :	 Training time: 	6651.08 seconds
+Work Unit 3800 :	 Train total loss :		1.187458e-06	L2 loss :	1.187458e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.462537e-03
+Work Unit 3800 :	 Validation total loss :	1.387958e-06	L2 loss :	1.387958e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.559569e-03
+Work Unit 3800 :	 Training time: 	7002.96 seconds
+Work Unit 4000 :	 Train total loss :		1.296607e-06	L2 loss :	1.296607e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.588507e-03
+Work Unit 4000 :	 Validation total loss :	1.432012e-06	L2 loss :	1.432012e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.640868e-03
+Work Unit 4000 :	 Training time: 	7355.57 seconds
+Work Unit 4200 :	 Train total loss :		3.147271e-06	L2 loss :	3.147271e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.901300e-03
+Work Unit 4200 :	 Validation total loss :	3.303897e-06	L2 loss :	3.303897e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.984525e-03
+Work Unit 4200 :	 Training time: 	7706.31 seconds
+Work Unit 4400 :	 Train total loss :		1.737129e-06	L2 loss :	1.737129e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.993413e-03
+Work Unit 4400 :	 Validation total loss :	1.974170e-06	L2 loss :	1.974170e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.117079e-03
+Work Unit 4400 :	 Training time: 	8055.31 seconds
+Work Unit 4600 :	 Train total loss :		1.797871e-06	L2 loss :	1.797871e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.992911e-03
+Work Unit 4600 :	 Validation total loss :	2.056556e-06	L2 loss :	2.056556e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.195407e-03
+Work Unit 4600 :	 Training time: 	8406.79 seconds
+Work Unit 4800 :	 Train total loss :		1.676311e-06	L2 loss :	1.676311e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.784871e-03
+Work Unit 4800 :	 Validation total loss :	1.925796e-06	L2 loss :	1.925796e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.929402e-03
+Work Unit 4800 :	 Training time: 	8759.05 seconds
+Work Unit 5000 :	 Train total loss :		8.609088e-07	L2 loss :	8.609088e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.179718e-03
+Work Unit 5000 :	 Validation total loss :	1.073334e-06	L2 loss :	1.073334e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.321444e-03
+Work Unit 5000 :	 Training time: 	9110.27 seconds
+Work Unit 5200 :	 Train total loss :		8.484556e-07	L2 loss :	8.484556e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.061010e-03
+Work Unit 5200 :	 Validation total loss :	1.054902e-06	L2 loss :	1.054902e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.179012e-03
+Work Unit 5200 :	 Training time: 	9461.52 seconds
+Work Unit 5400 :	 Train total loss :		1.454515e-06	L2 loss :	1.454515e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.677601e-03
+Work Unit 5400 :	 Validation total loss :	1.606795e-06	L2 loss :	1.606795e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.782306e-03
+Work Unit 5400 :	 Training time: 	9811.62 seconds
+Work Unit 5600 :	 Train total loss :		1.370583e-06	L2 loss :	1.370583e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.603243e-03
+Work Unit 5600 :	 Validation total loss :	1.471795e-06	L2 loss :	1.471795e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.682877e-03
+Work Unit 5600 :	 Training time: 	10162.41 seconds
+Work Unit 5800 :	 Train total loss :		1.034693e-06	L2 loss :	1.034693e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.267061e-03
+Work Unit 5800 :	 Validation total loss :	1.168675e-06	L2 loss :	1.168675e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.353225e-03
+Work Unit 5800 :	 Training time: 	10513.96 seconds
+Work Unit 6000 :	 Train total loss :		1.320184e-06	L2 loss :	1.320184e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.527371e-03
+Work Unit 6000 :	 Validation total loss :	1.500362e-06	L2 loss :	1.500362e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.669964e-03
+Work Unit 6000 :	 Training time: 	10865.76 seconds
+Work Unit 6200 :	 Train total loss :		6.589937e-07	L2 loss :	6.589937e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.818061e-03
+Work Unit 6200 :	 Validation total loss :	7.771332e-07	L2 loss :	7.771332e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.913684e-03
+Work Unit 6200 :	 Training time: 	11215.18 seconds
+Work Unit 6400 :	 Train total loss :		1.218817e-06	L2 loss :	1.218817e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.418403e-03
+Work Unit 6400 :	 Validation total loss :	1.292365e-06	L2 loss :	1.292365e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.485714e-03
+Work Unit 6400 :	 Training time: 	11566.29 seconds
+Work Unit 6600 :	 Train total loss :		9.993652e-07	L2 loss :	9.993652e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.273586e-03
+Work Unit 6600 :	 Validation total loss :	1.134649e-06	L2 loss :	1.134649e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.361055e-03
+Work Unit 6600 :	 Training time: 	11957.25 seconds
+Work Unit 6800 :	 Train total loss :		6.322710e-07	L2 loss :	6.322710e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.863408e-03
+Work Unit 6800 :	 Validation total loss :	7.680488e-07	L2 loss :	7.680488e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.989815e-03
+Work Unit 6800 :	 Training time: 	12349.93 seconds
+Work Unit 7000 :	 Train total loss :		1.301758e-06	L2 loss :	1.301758e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.487305e-03
+Work Unit 7000 :	 Validation total loss :	1.423452e-06	L2 loss :	1.423452e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.616015e-03
+Work Unit 7000 :	 Training time: 	12743.32 seconds
+Work Unit 7200 :	 Train total loss :		7.321081e-07	L2 loss :	7.321081e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.929191e-03
+Work Unit 7200 :	 Validation total loss :	7.869615e-07	L2 loss :	7.869615e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.978139e-03
+Work Unit 7200 :	 Training time: 	13137.34 seconds
+Work Unit 7400 :	 Train total loss :		1.381502e-06	L2 loss :	1.381502e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.671967e-03
+Work Unit 7400 :	 Validation total loss :	1.447091e-06	L2 loss :	1.447091e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.721891e-03
+Work Unit 7400 :	 Training time: 	13530.49 seconds
+Work Unit 7600 :	 Train total loss :		3.742763e-06	L2 loss :	3.742763e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.205250e-03
+Work Unit 7600 :	 Validation total loss :	3.778653e-06	L2 loss :	3.778653e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.183880e-03
+Work Unit 7600 :	 Training time: 	13923.64 seconds
+Work Unit 7800 :	 Train total loss :		2.140709e-06	L2 loss :	2.140709e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.225686e-03
+Work Unit 7800 :	 Validation total loss :	2.203922e-06	L2 loss :	2.203922e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.280141e-03
+Work Unit 7800 :	 Training time: 	14317.71 seconds
+Work Unit 8000 :	 Train total loss :		9.818828e-07	L2 loss :	9.818828e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.231285e-03
+Work Unit 8000 :	 Validation total loss :	1.061098e-06	L2 loss :	1.061098e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.318351e-03
+Work Unit 8000 :	 Training time: 	14710.66 seconds
+Work Unit 8200 :	 Train total loss :		3.577154e-06	L2 loss :	3.577154e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.204586e-03
+Work Unit 8200 :	 Validation total loss :	3.623346e-06	L2 loss :	3.623346e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	4.250234e-03
+Work Unit 8200 :	 Training time: 	15104.95 seconds
+Work Unit 8400 :	 Train total loss :		1.986152e-06	L2 loss :	1.986152e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.077841e-03
+Work Unit 8400 :	 Validation total loss :	2.099938e-06	L2 loss :	2.099938e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.139033e-03
+Work Unit 8400 :	 Training time: 	15507.16 seconds
+Work Unit 8600 :	 Train total loss :		1.946315e-06	L2 loss :	1.946315e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.037955e-03
+Work Unit 8600 :	 Validation total loss :	1.996372e-06	L2 loss :	1.996372e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.094701e-03
+Work Unit 8600 :	 Training time: 	15903.98 seconds
+Work Unit 8800 :	 Train total loss :		9.130881e-07	L2 loss :	9.130881e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.145667e-03
+Work Unit 8800 :	 Validation total loss :	9.505814e-07	L2 loss :	9.505814e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.206974e-03
+Work Unit 8800 :	 Training time: 	16298.41 seconds
+Work Unit 9000 :	 Train total loss :		2.875571e-06	L2 loss :	2.875571e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.697461e-03
+Work Unit 9000 :	 Validation total loss :	2.799946e-06	L2 loss :	2.799946e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.673537e-03
+Work Unit 9000 :	 Training time: 	16691.88 seconds
+Work Unit 9200 :	 Train total loss :		1.587191e-06	L2 loss :	1.587191e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.845939e-03
+Work Unit 9200 :	 Validation total loss :	1.682378e-06	L2 loss :	1.682378e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.894151e-03
+Work Unit 9200 :	 Training time: 	17083.93 seconds
+Work Unit 9400 :	 Train total loss :		1.060534e-06	L2 loss :	1.060534e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.250758e-03
+Work Unit 9400 :	 Validation total loss :	1.153990e-06	L2 loss :	1.153990e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.329129e-03
+Work Unit 9400 :	 Training time: 	17455.24 seconds
+Work Unit 9600 :	 Train total loss :		3.076985e-07	L2 loss :	3.076985e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.285062e-03
+Work Unit 9600 :	 Validation total loss :	3.578489e-07	L2 loss :	3.578489e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.352475e-03
+Work Unit 9600 :	 Training time: 	17807.06 seconds
+Work Unit 9800 :	 Train total loss :		4.858794e-07	L2 loss :	4.858794e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.575316e-03
+Work Unit 9800 :	 Validation total loss :	5.261054e-07	L2 loss :	5.261054e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.635192e-03
+Work Unit 9800 :	 Training time: 	18158.97 seconds
+Work Unit 10000 :	 Train total loss :		5.804367e-07	L2 loss :	5.804367e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.709825e-03
+Work Unit 10000 :	 Validation total loss :	6.244820e-07	L2 loss :	6.244820e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.775773e-03
+Work Unit 10000 :	 Training time: 	18510.26 seconds
+Work Unit 10200 :	 Train total loss :		5.381846e-07	L2 loss :	5.381846e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.653917e-03
+Work Unit 10200 :	 Validation total loss :	5.430283e-07	L2 loss :	5.430283e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.674255e-03
+Work Unit 10200 :	 Training time: 	18862.22 seconds
+Work Unit 10400 :	 Train total loss :		1.021760e-06	L2 loss :	1.021760e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.158662e-03
+Work Unit 10400 :	 Validation total loss :	1.067025e-06	L2 loss :	1.067025e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.242023e-03
+Work Unit 10400 :	 Training time: 	19214.84 seconds
+Work Unit 10600 :	 Train total loss :		9.907923e-07	L2 loss :	9.907923e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.201456e-03
+Work Unit 10600 :	 Validation total loss :	1.017061e-06	L2 loss :	1.017061e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.268294e-03
+Work Unit 10600 :	 Training time: 	19567.55 seconds
+Work Unit 10800 :	 Train total loss :		6.574786e-07	L2 loss :	6.574786e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.830603e-03
+Work Unit 10800 :	 Validation total loss :	6.970723e-07	L2 loss :	6.970723e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.887081e-03
+Work Unit 10800 :	 Training time: 	19919.66 seconds
+Work Unit 11000 :	 Train total loss :		1.021765e-06	L2 loss :	1.021765e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.280452e-03
+Work Unit 11000 :	 Validation total loss :	1.032106e-06	L2 loss :	1.032106e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.304295e-03
+Work Unit 11000 :	 Training time: 	20271.51 seconds
+Work Unit 11200 :	 Train total loss :		6.216468e-07	L2 loss :	6.216468e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.775724e-03
+Work Unit 11200 :	 Validation total loss :	6.739380e-07	L2 loss :	6.739380e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.830753e-03
+Work Unit 11200 :	 Training time: 	20623.23 seconds
+Work Unit 11400 :	 Train total loss :		7.301310e-07	L2 loss :	7.301310e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.896848e-03
+Work Unit 11400 :	 Validation total loss :	7.725626e-07	L2 loss :	7.725626e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.936312e-03
+Work Unit 11400 :	 Training time: 	20974.98 seconds
+Work Unit 11600 :	 Train total loss :		5.652372e-07	L2 loss :	5.652372e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.706767e-03
+Work Unit 11600 :	 Validation total loss :	6.120960e-07	L2 loss :	6.120960e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.761512e-03
+Work Unit 11600 :	 Training time: 	21325.48 seconds
+Work Unit 11800 :	 Train total loss :		1.264336e-06	L2 loss :	1.264336e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.503072e-03
+Work Unit 11800 :	 Validation total loss :	1.307255e-06	L2 loss :	1.307255e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.561021e-03
+Work Unit 11800 :	 Training time: 	21676.28 seconds
+Work Unit 12000 :	 Train total loss :		7.180953e-07	L2 loss :	7.180953e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.897822e-03
+Work Unit 12000 :	 Validation total loss :	7.264281e-07	L2 loss :	7.264281e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.916941e-03
+Work Unit 12000 :	 Training time: 	22025.79 seconds
+Work Unit 12200 :	 Train total loss :		5.187503e-07	L2 loss :	5.187503e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.640149e-03
+Work Unit 12200 :	 Validation total loss :	5.417146e-07	L2 loss :	5.417146e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.687800e-03
+Work Unit 12200 :	 Training time: 	22375.78 seconds
+Work Unit 12400 :	 Train total loss :		1.166779e-06	L2 loss :	1.166779e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.420177e-03
+Work Unit 12400 :	 Validation total loss :	1.227432e-06	L2 loss :	1.227432e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.475342e-03
+Work Unit 12400 :	 Training time: 	22727.28 seconds
+Work Unit 12600 :	 Train total loss :		7.184513e-07	L2 loss :	7.184513e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.830321e-03
+Work Unit 12600 :	 Validation total loss :	7.297626e-07	L2 loss :	7.297626e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.856296e-03
+Work Unit 12600 :	 Training time: 	23079.15 seconds
+Work Unit 12800 :	 Train total loss :		1.559527e-06	L2 loss :	1.559527e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.766085e-03
+Work Unit 12800 :	 Validation total loss :	1.588754e-06	L2 loss :	1.588754e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.793939e-03
+Work Unit 12800 :	 Training time: 	23431.02 seconds
+Work Unit 13000 :	 Train total loss :		4.257305e-07	L2 loss :	4.257305e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.493428e-03
+Work Unit 13000 :	 Validation total loss :	4.575674e-07	L2 loss :	4.575674e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.526136e-03
+Work Unit 13000 :	 Training time: 	23784.69 seconds
+Work Unit 13200 :	 Train total loss :		1.157761e-06	L2 loss :	1.157761e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.364255e-03
+Work Unit 13200 :	 Validation total loss :	1.186851e-06	L2 loss :	1.186851e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.409863e-03
+Work Unit 13200 :	 Training time: 	24137.54 seconds
+Work Unit 13400 :	 Train total loss :		8.195905e-07	L2 loss :	8.195905e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.926848e-03
+Work Unit 13400 :	 Validation total loss :	8.333451e-07	L2 loss :	8.333451e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.955958e-03
+Work Unit 13400 :	 Training time: 	24492.32 seconds
+Work Unit 13600 :	 Train total loss :		1.043224e-06	L2 loss :	1.043224e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.249916e-03
+Work Unit 13600 :	 Validation total loss :	1.058742e-06	L2 loss :	1.058742e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.285958e-03
+Work Unit 13600 :	 Training time: 	24847.41 seconds
+Work Unit 13800 :	 Train total loss :		7.032187e-07	L2 loss :	7.032187e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.859211e-03
+Work Unit 13800 :	 Validation total loss :	7.276929e-07	L2 loss :	7.276929e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.889787e-03
+Work Unit 13800 :	 Training time: 	25203.01 seconds
+Work Unit 14000 :	 Train total loss :		6.807091e-07	L2 loss :	6.807091e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.771963e-03
+Work Unit 14000 :	 Validation total loss :	6.719640e-07	L2 loss :	6.719640e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.793292e-03
+Work Unit 14000 :	 Training time: 	25556.80 seconds
+Work Unit 14200 :	 Train total loss :		9.077917e-07	L2 loss :	9.077917e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.094185e-03
+Work Unit 14200 :	 Validation total loss :	9.141029e-07	L2 loss :	9.141029e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.127307e-03
+Work Unit 14200 :	 Training time: 	25912.11 seconds
+Work Unit 14400 :	 Train total loss :		6.813263e-07	L2 loss :	6.813263e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.869377e-03
+Work Unit 14400 :	 Validation total loss :	7.005757e-07	L2 loss :	7.005757e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.908558e-03
+Work Unit 14400 :	 Training time: 	26267.15 seconds
+Work Unit 14600 :	 Train total loss :		7.114418e-07	L2 loss :	7.114418e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.860009e-03
+Work Unit 14600 :	 Validation total loss :	7.361587e-07	L2 loss :	7.361587e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.911353e-03
+Work Unit 14600 :	 Training time: 	26622.28 seconds
+Work Unit 14800 :	 Train total loss :		1.217866e-06	L2 loss :	1.217866e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.434187e-03
+Work Unit 14800 :	 Validation total loss :	1.279621e-06	L2 loss :	1.279621e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.492394e-03
+Work Unit 14800 :	 Training time: 	26977.67 seconds
+Work Unit 15000 :	 Train total loss :		2.347205e-06	L2 loss :	2.347205e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.413584e-03
+Work Unit 15000 :	 Validation total loss :	2.371167e-06	L2 loss :	2.371167e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.415734e-03
+Work Unit 15000 :	 Training time: 	27330.55 seconds
+Work Unit 15200 :	 Train total loss :		9.101594e-07	L2 loss :	9.101594e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.138653e-03
+Work Unit 15200 :	 Validation total loss :	9.417370e-07	L2 loss :	9.417370e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	2.178050e-03
+Work Unit 15200 :	 Training time: 	27682.03 seconds
+Work Unit 15400 :	 Train total loss :		6.054824e-07	L2 loss :	6.054824e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.779630e-03
+Work Unit 15400 :	 Validation total loss :	6.492846e-07	L2 loss :	6.492846e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.839630e-03
+Work Unit 15400 :	 Training time: 	28033.09 seconds
+Work Unit 15600 :	 Train total loss :		1.591967e-06	L2 loss :	1.591967e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.870766e-03
+Work Unit 15600 :	 Validation total loss :	1.645203e-06	L2 loss :	1.645203e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.920972e-03
+Work Unit 15600 :	 Training time: 	28383.28 seconds
+Work Unit 15800 :	 Train total loss :		4.150550e-07	L2 loss :	4.150550e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.467625e-03
+Work Unit 15800 :	 Validation total loss :	4.529392e-07	L2 loss :	4.529392e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.527851e-03
+Work Unit 15800 :	 Training time: 	28734.56 seconds
+Work Unit 16000 :	 Train total loss :		4.562092e-07	L2 loss :	4.562092e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.563277e-03
+Work Unit 16000 :	 Validation total loss :	4.950272e-07	L2 loss :	4.950272e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.608356e-03
+Work Unit 16000 :	 Training time: 	29085.92 seconds
+Work Unit 16200 :	 Train total loss :		3.678519e-07	L2 loss :	3.678519e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.399330e-03
+Work Unit 16200 :	 Validation total loss :	4.161445e-07	L2 loss :	4.161445e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.464038e-03
+Work Unit 16200 :	 Training time: 	29436.83 seconds
+Work Unit 16400 :	 Train total loss :		3.156798e-07	L2 loss :	3.156798e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.291234e-03
+Work Unit 16400 :	 Validation total loss :	3.489594e-07	L2 loss :	3.489594e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.344671e-03
+Work Unit 16400 :	 Training time: 	29787.15 seconds
+Work Unit 16600 :	 Train total loss :		6.879026e-07	L2 loss :	6.879026e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.845052e-03
+Work Unit 16600 :	 Validation total loss :	7.015051e-07	L2 loss :	7.015051e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.868902e-03
+Work Unit 16600 :	 Training time: 	30137.48 seconds
+Work Unit 16800 :	 Train total loss :		2.586270e-06	L2 loss :	2.586270e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.398564e-03
+Work Unit 16800 :	 Validation total loss :	2.501034e-06	L2 loss :	2.501034e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	3.438550e-03
+Work Unit 16800 :	 Training time: 	30487.23 seconds
+Work Unit 17000 :	 Train total loss :		3.500799e-07	L2 loss :	3.500799e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.340621e-03
+Work Unit 17000 :	 Validation total loss :	3.746031e-07	L2 loss :	3.746031e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.374687e-03
+Work Unit 17000 :	 Training time: 	30839.31 seconds
+Work Unit 17200 :	 Train total loss :		2.500373e-07	L2 loss :	2.500373e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.160873e-03
+Work Unit 17200 :	 Validation total loss :	2.887095e-07	L2 loss :	2.887095e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.219792e-03
+Work Unit 17200 :	 Training time: 	31190.92 seconds
+Work Unit 17400 :	 Train total loss :		3.032134e-07	L2 loss :	3.032134e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.230474e-03
+Work Unit 17400 :	 Validation total loss :	3.277923e-07	L2 loss :	3.277923e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.271522e-03
+Work Unit 17400 :	 Training time: 	31541.88 seconds
+Work Unit 17600 :	 Train total loss :		1.036840e-06	L2 loss :	1.036840e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.222140e-03
+Work Unit 17600 :	 Validation total loss :	1.071735e-06	L2 loss :	1.071735e-06	Regularization loss :	0.000000e+00	Relative L2 Error :	2.253249e-03
+Work Unit 17600 :	 Training time: 	31892.59 seconds
+Work Unit 17800 :	 Train total loss :		2.969478e-07	L2 loss :	2.969478e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.190538e-03
+Work Unit 17800 :	 Validation total loss :	3.251749e-07	L2 loss :	3.251749e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.231851e-03
+Work Unit 17800 :	 Training time: 	32243.70 seconds
+Work Unit 18000 :	 Train total loss :		3.772782e-07	L2 loss :	3.772782e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.389972e-03
+Work Unit 18000 :	 Validation total loss :	3.892793e-07	L2 loss :	3.892793e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.422004e-03
+Work Unit 18000 :	 Training time: 	32594.55 seconds
+Work Unit 18200 :	 Train total loss :		6.644480e-07	L2 loss :	6.644480e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.794325e-03
+Work Unit 18200 :	 Validation total loss :	6.875431e-07	L2 loss :	6.875431e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.856878e-03
+Work Unit 18200 :	 Training time: 	32945.15 seconds
+Work Unit 18400 :	 Train total loss :		3.597339e-07	L2 loss :	3.597339e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.389883e-03
+Work Unit 18400 :	 Validation total loss :	3.798273e-07	L2 loss :	3.798273e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.421047e-03
+Work Unit 18400 :	 Training time: 	33297.15 seconds
+Work Unit 18600 :	 Train total loss :		3.649735e-07	L2 loss :	3.649735e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.375628e-03
+Work Unit 18600 :	 Validation total loss :	3.900157e-07	L2 loss :	3.900157e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.411321e-03
+Work Unit 18600 :	 Training time: 	33648.21 seconds
+Work Unit 18800 :	 Train total loss :		2.854205e-07	L2 loss :	2.854205e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.236738e-03
+Work Unit 18800 :	 Validation total loss :	3.130954e-07	L2 loss :	3.130954e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.280352e-03
+Work Unit 18800 :	 Training time: 	33999.92 seconds
+Work Unit 19000 :	 Train total loss :		3.646474e-07	L2 loss :	3.646474e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.365651e-03
+Work Unit 19000 :	 Validation total loss :	4.143095e-07	L2 loss :	4.143095e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.434694e-03
+Work Unit 19000 :	 Training time: 	34350.92 seconds
+Work Unit 19200 :	 Train total loss :		2.991262e-07	L2 loss :	2.991262e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.225569e-03
+Work Unit 19200 :	 Validation total loss :	3.161778e-07	L2 loss :	3.161778e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.254954e-03
+Work Unit 19200 :	 Training time: 	34702.09 seconds
+Work Unit 19400 :	 Train total loss :		2.383579e-07	L2 loss :	2.383579e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.107532e-03
+Work Unit 19400 :	 Validation total loss :	2.625394e-07	L2 loss :	2.625394e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.151990e-03
+Work Unit 19400 :	 Training time: 	35053.48 seconds
+Work Unit 19600 :	 Train total loss :		1.890539e-07	L2 loss :	1.890539e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.010994e-03
+Work Unit 19600 :	 Validation total loss :	2.136315e-07	L2 loss :	2.136315e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.050929e-03
+Work Unit 19600 :	 Training time: 	35403.65 seconds
+Work Unit 19800 :	 Train total loss :		5.806349e-07	L2 loss :	5.806349e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.668869e-03
+Work Unit 19800 :	 Validation total loss :	6.005032e-07	L2 loss :	6.005032e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.722867e-03
+Work Unit 19800 :	 Training time: 	35754.41 seconds
+Work Unit 20000 :	 Train total loss :		5.568354e-07	L2 loss :	5.568354e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.673006e-03
+Work Unit 20000 :	 Validation total loss :	5.761447e-07	L2 loss :	5.761447e-07	Regularization loss :	0.000000e+00	Relative L2 Error :	1.711251e-03
+Work Unit 20000 :	 Training time: 	36105.75 seconds
+Training done:	 Epoch 20000 :	 Training time: 36328.15 seconds
